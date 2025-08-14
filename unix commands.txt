@@ -1,1 +1,10 @@
+Unix Commands :
+            - Unix commands are instructions you type into a Unix (or Unix-like) operating system's terminal to tell the computer what to do.
+            - Unix is an operating system (like Linux and macOS are based on it).
+            - The terminal (or shell) is where you enter these commands.
+            - Each command performs a specific task — such as creating files, moving data, checking system status, or managing processes.
 
+Key points :
+            - Case-sensitive → ls and LS are not the same.
+            - Often short words or abbreviations (cd, rm, pwd).
+            - Can be combined with options and arguments:

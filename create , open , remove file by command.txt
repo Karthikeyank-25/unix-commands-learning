@@ -1,0 +1,34 @@
+Createing , Opening , Removing files by commands :
+            Without entering into 'This PC' by using commands to create , open , remove files from system.
+
+1.Create Directory :
+    Commands to create directory.
+    - 'mkdir [fileName]'
+
+2.Create File :
+    Commands to create new file.
+    - 'touch [fileName.ext]'
+
+3.Open Created file :
+    Commands to open created file in the directory.
+    - 'start [fileName.ext]'
+
+4.Open File in VScode :
+    Commands to open file in VScode.
+    - 'code [fileName.ext]'
+
+5.Delete File in Directory :
+    Commands to delete the file in the directory.
+    - 'rm [fileName.ext]'
+
+6.Delete All File in Directory :
+    Commands to delete all the file in the directory.
+    - 'rm *'
+
+7.Find Current Directory Location :
+    Commands to find the current working directory location.
+    - 'pwd'
+
+8.Delete Directory :
+    Commands to delete directory.
+    - 'rm -r [fileName.ext]'

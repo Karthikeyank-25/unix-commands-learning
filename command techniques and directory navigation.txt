@@ -1,0 +1,26 @@
+Command Line Techniques and Directory Navigation :
+            After completing the setup process , start learn the below commands.
+
+Listout the user system files :
+        - Command to list files and directory.
+        - 'ls'
+
+Change the directory :
+        - Command to change the current directory into required directory.
+        - 'cd'
+        - 'cd [folderName]'
+
+Change the directory into backward :
+        - Command to change the directory into backward direction.
+        - 'cd ~'
+
+Clear the commands :
+        - Commands to clear the terminal history.
+        - 'ctrl + L'
+
+Visit history commands :
+        - Technique to visit history commands what typed before use the "Upper Arrow" in the terminal.
+
+Navigate the command using mouse :
+        - Technique to navigate the specific character in the commands typed using mouse.
+        - 'alt + mousing the charcter in command'
